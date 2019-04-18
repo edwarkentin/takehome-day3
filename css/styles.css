@@ -1,0 +1,34 @@
+.logo {
+    height: 50px;
+    background-color: #dddddd;
+}
+    
+.nav {
+    position: relative;
+    left: 100px;
+    height: 30px;
+}
+    
+.nav0 {
+    visibility: hidden;
+}
+.nav1, .nav2, .nav3 {
+    height: 10px;
+    position: absolute;
+    top: 10px;
+    background-color: #f18509;
+}
+    
+.hero {
+    height: 100px;
+    background-color: #e6f10c;
+}
+
+.title {
+    height: 10px;
+    background-color: #32f10c;
+}
+
+.wide, .narrow {
+    height: 90px;
+}
