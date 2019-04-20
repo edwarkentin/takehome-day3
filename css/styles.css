@@ -1,34 +1,40 @@
+.container-fluid {
+    background-color: #fff;
+}
+
+.box {
+    background-color: #000000;
+    /* padding: 10px; */
+}
 .logo {
     height: 50px;
-    background-color: #dddddd;
 }
-    
-.nav {
-    position: relative;
-    left: 100px;
+
+/* .nav_row {
+    margin-right: 0px;
+} */
+
+.nav-item {
     height: 30px;
+    margin: 10px;
+    /* padding: 10px; */
 }
-    
-.nav0 {
-    visibility: hidden;
-}
-.nav1, .nav2, .nav3 {
-    height: 10px;
-    position: absolute;
-    top: 10px;
-    background-color: #f18509;
-}
-    
-.hero {
-    height: 100px;
-    background-color: #e6f10c;
+
+.jumbotron {
+    height: 250px;
+    margin-top: 25px;
 }
 
 .title {
-    height: 10px;
-    background-color: #32f10c;
+    height: 30px;
+    margin-top: 25px;
 }
 
-.wide, .narrow {
-    height: 90px;
+.six {
+    background-color: #fff;
+}
+.thumbnail {
+    height: 150px;
+    /* margin: 25px; */
+    /* padding: 25px; */
 }
