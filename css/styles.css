@@ -1,0 +1,40 @@
+.container-fluid {
+    background-color: #fff;
+}
+
+.box {
+    background-color: #000000;
+    /* padding: 10px; */
+}
+.logo {
+    height: 50px;
+}
+
+/* .nav_row {
+    margin-right: 0px;
+} */
+
+.nav-item {
+    height: 30px;
+    margin: 10px;
+    /* padding: 10px; */
+}
+
+.jumbotron {
+    height: 250px;
+    margin-top: 25px;
+}
+
+.title {
+    height: 30px;
+    margin-top: 25px;
+}
+
+.six {
+    background-color: #fff;
+}
+.thumbnail {
+    height: 150px;
+    /* margin: 25px; */
+    /* padding: 25px; */
+}
